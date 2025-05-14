@@ -1,0 +1,7 @@
+{
+    "require": {
+        "spomky-labs/otphp": "^10.0",
+        "endroid/qr-code": "^4.0",
+        "bacon/bacon-qr-code": "^2.0"
+    }
+}

@@ -304,7 +304,7 @@ $saldo_ynab = $total_ynab_receitas - $total_ynab_despesas;
 <nav class="navbar navbar-custom sticky-top">
   <div class="container-fluid px-4">
     <a class="navbar-brand navbar-brand-custom" href="index.php">
-      <i class="fas fa-chart-pie me-2"></i>Dashboard
+      <i class="fas fa-chart-pie me-2"></i>Dashboard Geral
     </a>
     <div class="d-flex align-items-center">
       <a href="perfil.php" class="profile-link">
